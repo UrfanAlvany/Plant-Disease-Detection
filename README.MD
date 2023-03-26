@@ -18,7 +18,7 @@ After installing successfully repository of the YoloV8, you must also download t
 Google Docs
 
 ```bash
-URL:https://drive.google.com/drive/folders/1Xwj2voOcT_ELuRYqL_6tyCLEIZW78knW?usp=share_link
+https://drive.google.com/drive/folders/1Xwj2voOcT_ELuRYqL_6tyCLEIZW78knW?usp=share_link
 ```
 After installing the folder you will see 2 folder inside the Model
 ```
